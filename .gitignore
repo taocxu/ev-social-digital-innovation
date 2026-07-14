@@ -1,0 +1,69 @@
+# Research file types (must explicitly add allowed ones)
+*.doc
+*.docx
+*.pdf
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.tif
+*.tiff
+*.lnk
+*.zip
+*.7z
+*.rar
+
+# Allow research_outputs subdirectories explicitly
+!research_outputs/**/
+!research_outputs/**/*.docx
+!research_outputs/**/*.pdf
+!research_outputs/**/*.pptx
+
+# Sensitive project records (never commit)
+/control/inventories/
+/control/classification/
+/control/logs/
+/control/config.json
+
+# All local audit artefacts (not for public)
+/control/reports/*.md
+/control/reports/*.csv
+
+# Retired or local-only scripts (never commit)
+/control/scripts/01_inventory.py
+/control/scripts/04_copy_reorganisation.py
+/control/scripts/07_read_shortcuts.ps1
+/control/scripts/07_stage45_review.py
+/control/scripts/08_stage45_consistency.py
+/control/scripts/generate_final_reports.py
+/control/scripts/path_length_shorten.py
+/control/scripts/pre_source_deletion_audit.py
+/control/scripts/source_retirement_audit.py
+
+# Temporary and local files
+/temp/
+**/__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+.vscode/
+.idea/
+.codex/
+
+# Reorganised library or source folders
+/source/
+/REORG/
+/target/
+/git_backups/
+/research_outputs/final_presentations/
+/research_outputs/final_manuscripts/新能源车*
