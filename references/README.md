@@ -6,21 +6,10 @@ This directory contains the verified project bibliography and the only third-par
 
 | File | Purpose |
 |------|---------|
-| [REFERENCES.md](REFERENCES.md) | Complete alphabetised bibliography of 83 unique records |
-| [SELECTED_WORKS_BY_TAO_XU.md](SELECTED_WORKS_BY_TAO_XU.md) | Four selected publications and working papers by Tao Xu |
-| [BIBLIOGRAPHY_CURATION_NOTE.md](BIBLIOGRAPHY_CURATION_NOTE.md) | Scope, deduplication, verification, and count reconciliation |
+| [REFERENCES.md](REFERENCES.md) | Complete alphabetised bibliography |
+| [BIBLIOGRAPHY_CURATION_NOTE.md](BIBLIOGRAPHY_CURATION_NOTE.md) | Scope, deduplication, and verification notes |
 | [NOT_HOSTED_REFERENCES.md](NOT_HOSTED_REFERENCES.md) | Explanation of the PDF-hosting policy |
-| `ev_industry/` | One hosted CC BY 4.0 PDF |
-
-## Summary
-
-- 79 unique third-party references
-- 4 selected works by Tao Xu
-- 83 final bibliographic records
-- 77 third-party records with verified DOI
-- 2 third-party records without DOI
-- 1 hosted third-party PDF
-- 78 third-party references represented by citation and source link only
+| `ev_industry/` | Hosted CC BY 4.0 PDF |
 
 ## Hosted PDF
 
