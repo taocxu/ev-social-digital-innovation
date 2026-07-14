@@ -17,30 +17,19 @@ This repository provides a **research file governance toolkit** and selected **f
 | Configuration and rules | `.gitignore`, `AGENTS.md`, `PUBLIC_RESEARCH_OUTPUT_SELECTION.md` | Repository governance and public release criteria |
 
 ### Research Outputs
+## Research Outputs
 
-The following final research outputs are available under `research_outputs/`:
+The following final research outputs are available:
 
-| Topic | File | Format |
-|-------|------|--------|
-| Endogenous Innovation in the Tech Cold War Era | [Endogenous_Innovation_in_the_Tech_Cold_War_Era.pdf](research_outputs/endogenous_innovation_tech_cold_war/Endogenous_Innovation_in_the_Tech_Cold_War_Era.pdf) | Full manuscript, PDF |
-| Technological Sovereignty and Enterprise Innovation | [科技强国视角下的企业内生性创新_01DecV3.pdf](research_outputs/final_manuscripts/科技强国视角下的企业内生性创新_01DecV3.pdf) | Full manuscript, PDF |
+| File | Format | Description |
+|------|--------|-------------|
+| [Endogenous_Innovation_in_the_Tech_Cold_War_Era.pdf](research_outputs/final_reports/Endogenous_Innovation_in_the_Tech_Cold_War_Era.pdf) | Full manuscript, PDF | Endogenous innovation dynamics under technology competition |
+| [科技强国视角下的企业内生性创新.pdf](research_outputs/final_reports/科技强国视角下的企业内生性创新.pdf) | Full manuscript, PDF | Enterprise endogenous innovation from a technological sovereignty perspective |
+| [社会数字创新和新能源车产业_040625.docx](research_outputs/final_manuscripts/社会数字创新和新能源车产业_040625.docx) | Full report, DOCX | Social digital innovation and the electric vehicle industry |
 
-Selection criteria: final clean versions only, no track changes, author-finalised or clean releases. PDF is the preferred public reading format.
+These files are user-curated final research outputs. Intermediate drafts, tracked-changes versions, process notes, and external references are not included. PDF is the preferred reading format.
 
-Intermediate drafts, tracked-changes versions, external references, and internal management records are **not** included.
-
-### Research File Governance Toolkit
-
-The scripts under `control/scripts/` support a reproducible workflow for:
-
-- **Read-only file inventory** — recursive scanning with SHA-256
-- **Metadata and document relationship identification** — version families, DOCX/PDF pairs, duplicate detection
-- **Target-path collision checking** — Windows filename rules, path-length gates
-- **Copy-based reorganisation** — dry-run default, SHA-256 post-copy verification
-- **Source retirement audit** — safe-to-delete assessment
-
-**Important**: These tools default to read-only and dry-run mode. They do not delete or modify source files. Always run in dry-run mode first and back up your data before executing any reorganisation.
-
+All research outputs retain author copyright. The MIT license applies only to the code in control/scripts/.
 ## Repository Status
 
 - **Visibility**: PRIVATE (will be reviewed for public release after full audit)
@@ -65,3 +54,4 @@ python control/scripts/05_verify_reorganisation.py
 # See individual script help for details
 python control/scripts/02_build_relationships.py --help
 ```
+
