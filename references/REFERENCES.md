@@ -1,9 +1,9 @@
 # References
 
-This bibliography contains **83 unique records**: **79 third-party references** drawn from the project literature library and **4 selected works by Tao Xu**. The records are alphabetised by author and formatted consistently in APA 7 style.
+This bibliography contains **83 unique records**, alphabetised by author and formatted consistently in APA 7 style.
 
-- **77** of the 79 third-party references have a verified DOI.
-- **2** third-party references have no DOI and are identified through a stable bibliographic record or report identifier.
+- **79** records have a verified DOI.
+- **4** records without a DOI are identified through a stable official identifier or repository record.
 - **1** third-party PDF is hosted in this repository under an explicit CC BY 4.0 licence.
 - Duplicate files and duplicate bibliographic versions have been consolidated into a single record.
 
