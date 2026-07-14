@@ -2,7 +2,7 @@
 
 ## Repository
 
-taocxu/ev-social-digital-innovation (PRIVATE — public release in progress)
+taocxu/ev-social-digital-innovation (PUBLIC)
 
 ## Selected Research Outputs
 
@@ -19,23 +19,23 @@ The following three files are the currently approved public research outputs:
 1. Author-finalised versions only
 2. PDF preferred as the canonical public format
 3. DOCX included only when verified free of track changes, comments, hidden text
-4. No external copyrighted materials
+4. No external copyrighted materials within `research_outputs/`
 5. No intermediate drafts, historical versions, or tracked-changes copies
 6. No process notes, personal notes, or internal management records
 
 ## Excluded Materials
 
-The following categories are explicitly excluded from this public repository:
+The following categories are excluded from `research_outputs/`:
 
-- All DOCX files with detected track changes (revisions, comments)
+- All DOCX files with detected track changes, revisions, or comments
 - Historical drafts and intermediate versions
 - Co-author revision copies and annotated versions
-- Research notes, literature notes, and reference lists
-- External academic papers, book chapters, policy documents
+- Research notes and literature notes
+- External academic papers, book chapters, policy documents, except separately curated licence-verified references under `references/`
 - Award application materials and internal management records
-- Presentation artwork (幻灯片图)
+- Presentation artwork
 - Process notes and working documents consolidating multiple research strands
-- All inventories, classification maps, execution logs, and full audit trails
+- Inventories, classification maps, execution logs, and full audit trails
 - Original project configuration and metadata files
 
 ## Version Families Not Publicly Released
@@ -47,6 +47,6 @@ The following categories are explicitly excluded from this public repository:
 
 ## Repository Status
 
-- The repository is currently PRIVATE
-- Public release is under preparation
-- The complete project audit trail (including full inventories, version maps, SHA-256 records) is maintained separately
+- The repository is PUBLIC.
+- The approved research outputs are available under `research_outputs/`.
+- The complete project audit trail, including full inventories, version maps, and SHA-256 records, is maintained separately.
