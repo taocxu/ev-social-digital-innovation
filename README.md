@@ -31,11 +31,9 @@ These files are user-curated final research outputs. Intermediate drafts, tracke
 
 All research outputs retain author copyright. The MIT license applies only to the code in control/scripts/.
 ## Repository Status
-
-- **Visibility**: PRIVATE (will be reviewed for public release after full audit)
-- This repository contains **no external copyrighted materials**, **no raw datasets**, **no personal credentials**, and **no full internal audit trails**.
-- The complete project audit trail (including full inventories, version maps, and execution logs) is maintained separately.
-
+- **Visibility**: PUBLIC
+- This repository contains the author's own research outputs and a selection of licence-verified academic references.
+- Full project audit trails are maintained separately.
 ## License
 
 - **Code** (scripts under `control/scripts/`): Licensed under the [MIT License](LICENSE).
@@ -54,4 +52,5 @@ python control/scripts/05_verify_reorganisation.py
 # See individual script help for details
 python control/scripts/02_build_relationships.py --help
 ```
+
 
