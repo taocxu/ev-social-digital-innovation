@@ -58,14 +58,25 @@ python control/scripts/02_build_relationships.py --help
 ## References
 ## References
 
-The project bibliography with 88 deduplicated references organised by theme is available in [references/REFERENCES.md](references/REFERENCES.md).
+The project bibliography with 79 deduplicated references is available in [references/REFERENCES.md](references/REFERENCES.md).
 
-| Subdirectory | Description | Hosted PDFs |
-|-------------|-------------|-------------|
-| [references/REFERENCES.md](references/REFERENCES.md) | Full APA 7 bibliography | — |
-| [references/NOT_HOSTED_REFERENCES.md](references/NOT_HOSTED_REFERENCES.md) | Notes on non-hosted references | — |
-| `references/ev_industry/` | EV and NEV industry literature | 1 (CC BY 4.0) |
+| Item | Location |
+|------|----------|
+| Full bibliography | [references/REFERENCES.md](references/REFERENCES.md) |
+| Curation note | [references/BIBLIOGRAPHY_CURATION_NOTE.md](references/BIBLIOGRAPHY_CURATION_NOTE.md) |
+| Hosted PDF (CC BY 4.0) | eferences/ev_industry/ |
 
-Only references with clear redistribution licenses are hosted as PDFs. All others are listed with DOIs or official links. The author's own publications are listed in the Selected Works section of the bibliography.
+Only references with clear redistribution licenses are hosted as PDFs. All others are listed with DOIs or official links.
+## References
+## References
 
-References are distinct from the repository's [Research Outputs](research_outputs/README.md) and are not counted as original research contributions of this project.
+The project bibliography with 79 deduplicated references is available in [references/REFERENCES.md](references/REFERENCES.md).
+
+| Item | Location |
+|------|----------|
+| Full bibliography | [references/REFERENCES.md](references/REFERENCES.md) |
+| Curation note | [references/BIBLIOGRAPHY_CURATION_NOTE.md](references/BIBLIOGRAPHY_CURATION_NOTE.md) |
+| Hosted PDF (CC BY 4.0) | eferences/ev_industry/ |
+
+Only references with clear redistribution licenses are hosted as PDFs. All others are listed with DOIs or official links.
+

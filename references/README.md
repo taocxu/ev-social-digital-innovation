@@ -1,5 +1,6 @@
 # References
 
+<<<<<<< HEAD
 This directory contains the project bibliography, a curated list of the author's selected works, and third-party PDFs whose licences explicitly permit redistribution.
 
 ## Files
@@ -28,3 +29,11 @@ This directory contains the project bibliography, a curated list of the author's
 ## Copyright
 
 All hosted PDFs retain the copyright of their original authors and publishers. No modifications have been made. The repository's MIT licence covers only the code under `control/scripts/`; it does not apply to research outputs or third-party references.
+=======
+| File | Purpose |
+|------|---------|
+| [REFERENCES.md](REFERENCES.md) | Complete deduplicated bibliography (79 entries) |
+| [NOT_HOSTED_REFERENCES.md](NOT_HOSTED_REFERENCES.md) | Notes on non-hosted references |
+| [BIBLIOGRAPHY_CURATION_NOTE.md](BIBLIOGRAPHY_CURATION_NOTE.md) | Curation actions and counts |
+| `ev_industry/` | Hosted CC BY 4.0 PDF |
+>>>>>>> c3b3fb5 (Remove selected references and standardise DOI metadata)
